@@ -11,17 +11,18 @@ This repository contains Python programs demonstrating core Object-Oriented Prog
 1. Clone the repository:
    ```bash
    git remote add origin https://github.com/Gideon-Kipngeno/wk-5-python-Gideon-Kipngeno.git
-Navigate to the project folder:
+2. Navigate to the project folder:
 
-'''
 cd wk-5-python-Gideon-Kipngeno
-Run the Python files:
 
-'''''
+
+3. Run the Python files:
+  '''bash
    python smartphone.py
-   python smartphone.py
+   python Book.py
 
 Features
+
 Use of classes and objects.
 
 Constructors to initialize unique object states.
